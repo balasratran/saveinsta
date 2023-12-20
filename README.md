@@ -1,5 +1,5 @@
 # SaveInsta
-<a href="https://saveinsta.pro/en">SaveInsta</a> is an online Instagram downloader. Support download photos, videos, reels, stories and IGTV from Instagram with best quality. You just need to visit SaveInsta.pro and you can download any Instagram content quickly without installing software.
+<a href="https://saveinsta.pro/en">SaveInsta</a>.pro is an online Instagram downloader. Support download photos, videos, reels, stories and IGTV from Instagram with best quality. You just need to visit SaveInsta.pro and you can download any Instagram content quickly without installing software.
 
 In addition, SaveInsta also allows private Instagram photos, videos, stories, reels and IGTV downloads. Supports download any content from private Instagram account on all devices (PC, Mac, tablet, iPhone, Android).
 
